@@ -42,11 +42,10 @@ You can find the paper [here](VRPrivacySecurity.pdf).
   <img src="Images/EyeTrackingMirrorBased.gif" alt="EyeTrackingMirrorBased" width="600"/>
 </p>
 
-
 <li>Emotion Tracking</li>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/98579962-acb1-48cd-bb19-552a81141c8d"/>
-<img src="https://github.com/user-attachments/assets/4c995368-805d-4c77-a808-d5eba629bd77"/>
+  <img src="https://github.com/user-attachments/assets/98579962-acb1-48cd-bb19-552a81141c8d" alt="EmotionTracking1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/4c995368-805d-4c77-a808-d5eba629bd77" alt="EmotionTracking2" width="600"/>
 </p>
 
 <li>Hand Tracking</li>
@@ -54,25 +53,21 @@ You can find the paper [here](VRPrivacySecurity.pdf).
   <img src="Images/handTrackingMirrorBased.gif" alt="HandTrackingMirrorBased" width="600"/>
 </p>
 
-
 <h3>Game-Based Implementation</h3>
 <li>Eye-Tracking</li>
 <p align="center">
   <img src="Images/EyeTrackingGameBased.gif" alt="EyeTrackingGameBased" width="600"/>
 </p>
 
-
 <li>Emotion Tracking</li>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5c563d5f-61b7-48fe-9b81-de89b18e55dc"/>
+  <img src="https://github.com/user-attachments/assets/5c563d5f-61b7-48fe-9b81-de89b18e55dc" alt="EmotionTrackingGameBased" width="600"/>
 </p>
 
 <li>Hand Tracking</li>
 <p align="center">
   <img src="Images/handTrackingGameBased2.gif" alt="HandTrackingGameBased" width="600"/>
 </p>
-
-
 
 ## Installation Guide for APK Files on Meta Quest Pro
 
