@@ -75,8 +75,7 @@ You can find the paper [here](VRPrivacySecurity.pdf).
 
 ### Emotion Tracking
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98579962-acb1-48cd-bb19-552a81141c8d" alt="EmotionTracking1" width="600"/>
-  <img src="https://github.com/user-attachments/assets/4c995368-805d-4c77-a808-d5eba629bd77" alt="EmotionTracking2" width="600"/>
+  <img src="Images/NaturalFacialExpressionMirrorBased.gif" alt="EmotionTracking" width="600"/>
 </p>
 
 ### Hand Tracking
