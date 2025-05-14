@@ -61,10 +61,10 @@ You can find the paper [here](VRPrivacySecurity.pdf).
 
 ## Built With
 
-[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](#) Unity Engine  
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](#) C#  
-[![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)](#) Meta Quest Pro  
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#) Visual Studio
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)](#) 
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 
 ## Mirror-Based Implementation
 
